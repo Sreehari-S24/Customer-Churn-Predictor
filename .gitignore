@@ -33,3 +33,6 @@ Thumbs.db
 
 # Temporary files
 *.log
+
+# Include the trained model required by the dashboard
+!models/churn_model.joblib
